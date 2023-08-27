@@ -1,0 +1,2 @@
+python output_pr_trends_cmip6.py
+python output_vp_trends_cmip6.py

@@ -1,0 +1,6 @@
+#!/bin/bash
+python output_pr_trends_cmip6_monthly.py
+python output_pr_trends_cmip6.py
+python output_qprofile_trends_cmip6.py
+python output_vp_trends_cmip6_monthly.py
+python output_vp_trends_cmip6.py
